@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.production
+.env.*.local
+.env.*.production
+!.env/
+!.env/*.example
+!.env/.gitkeep
+.DS_Store
+data/orders.json
+data/quotes.json
